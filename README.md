@@ -4,7 +4,7 @@ this my exploration OOP implement in simple todolist application
 
 🔗 **Simple oop-todolist **  
 
-https://github.com/dhickhead/simple-cruds-user
+https://github.com/dhickhead/explore-oop-todolist.git
 
 - Using java 17
 - Implement OOP Concept for example like
